@@ -6,6 +6,12 @@
     "illuminate/support": "5.6.* || 5.7.* || 5.8.* || 6.0.*"
   },
   "license": "proprietary",
+  "authors": [
+    {
+      "name": "Roman Hochstoeger",
+      "email": "tuhochi@gmail.com"
+    }
+  ],
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
