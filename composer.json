@@ -1,0 +1,8 @@
+{
+  "name": "tuhochi/fibonacci-generator",
+  "description": "A simple fibonacci number generator",
+  "require": {
+    "php": ">=7.4",
+    "illuminate/support": "5.6.* || 5.7.* || 5.8.* || 6.0.*"
+  }
+}
