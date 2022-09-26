@@ -28,8 +28,5 @@
         "FibonacciGenerator\\GeneratorServiceProvider"
       ]
     }
-  },
-  "require-dev": {
-    "orchestra/testbench": "^3.8"
   }
 }
