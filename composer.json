@@ -1,5 +1,5 @@
 {
-  "name": "tuhochi/php-lib-fibonacci",
+  "name": "tuhochi/fibonacci-generator",
   "description": "A simple fibonacci number generator",
   "type": "library",
   "require": {
