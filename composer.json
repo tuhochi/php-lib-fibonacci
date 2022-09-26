@@ -4,5 +4,21 @@
   "require": {
     "php": ">=7.4",
     "illuminate/support": "5.6.* || 5.7.* || 5.8.* || 6.0.*"
+  },
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "RandomPassword\\": "src/FibonacciGenerator/"
+    },
+    "files": [
+      "src/FibonacciGenerator/Generator.php.php"
+    ]
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "FibonacciGenerator\\GeneratorServiceProvider"
+      ]
+    }
   }
 }
