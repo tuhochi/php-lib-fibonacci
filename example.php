@@ -1,6 +1,6 @@
 <?php
 
-require_once('src/FibonacciGenerator/Generator.php');
+require_once('vendor/autoload.php');
 
 use FibonacciGenerator\Generator;
 
