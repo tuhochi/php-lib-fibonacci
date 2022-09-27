@@ -19,7 +19,7 @@
       "RandomPassword\\": "src/FibonacciGenerator/"
     },
     "files": [
-      "src/FibonacciGenerator/Generator.php.php"
+      "src/FibonacciGenerator/Generator.php"
     ]
   },
   "extra": {
